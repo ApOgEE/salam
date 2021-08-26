@@ -7,12 +7,12 @@ Tujuan aplikasi ini ditulis adalah untuk menjelaskan bagaimana membuat program m
 ## Cara Kompil
 
 ```
-$ gcc src/salam.c -o salam
+$ make
 ```
 
 ## Cara Jalankan
 
 ```
-$ ./salam
+$ ./bin/salam
 ```
 
