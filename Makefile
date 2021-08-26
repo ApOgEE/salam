@@ -8,8 +8,8 @@ CC := gcc
 SRC_DIR := src
 BIN_DIR := bin
 
-SRC := $(SRC_DIR)/salam.c
-EXEC := $(BIN_DIR)/salam
+SRC := $(SRC_DIR)/ucapkan.c
+EXEC := $(BIN_DIR)/ucapkan
 
 all: $(EXEC)
 	
