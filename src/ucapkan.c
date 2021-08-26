@@ -31,7 +31,7 @@ int main(int argc, char *argv[])
             strsaiz++;
     }
 
-    printf("Saiz: %d\n", strsaiz);
+    printf("[INFO] Saiz: %d\n", strsaiz);
 
     char *ucapan;
     ucapan = malloc(strsaiz);
