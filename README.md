@@ -6,8 +6,16 @@ Tujuan aplikasi ini ditulis adalah untuk menjelaskan bagaimana membuat program m
 
 ## Cara Kompil
 
+Gunakan Makefile untuk kompil.
+
 ```
 $ make
+```
+
+Untuk membersihkan hasil kompil lama, guna arahan:
+
+```
+$ make clean
 ```
 
 ## Cara Jalankan
@@ -15,4 +23,3 @@ $ make
 ```
 $ ./bin/salam
 ```
-
