@@ -21,5 +21,5 @@ $ make clean
 ## Cara Jalankan
 
 ```
-$ ./bin/ucapkan Salam pada Dunia
+$ ./bin/ucapkan 'Salam Dunia!'
 ```
